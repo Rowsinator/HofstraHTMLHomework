@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	resizeOnImport="false"
+	useFullscreenExpand="false"
+	useThumbDots="false"
+	showThumbsButton="true"
+	textColor="rgba(204,204,204,1)"
+	thumbFrameColor="rgba(255,255,255,.3)"
+	indexPageName="Gallery.html"
+
+>
+  <image imageURL="images/$35 for pixles.jpg"
+	thumbURL="thumbs/$35 for pixles.jpg"
+	linkURL="images/$35 for pixles.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\MRX\Documents\Aptana Workspace\webportfolio\gallery\$35 for pixles.png">
+    <title><![CDATA[$35 for pixles]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1345052262058792.jpg"
+	thumbURL="thumbs/1345052262058792.jpg"
+	linkURL="images/1345052262058792.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\MRX\Documents\Aptana Workspace\webportfolio\gallery\1345052262058792.jpg">
+    <title><![CDATA[1345052262058792]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CutsMan N takes his Cut.jpg"
+	thumbURL="thumbs/CutsMan N takes his Cut.jpg"
+	linkURL="images/CutsMan N takes his Cut.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\MRX\Documents\Aptana Workspace\webportfolio\gallery\CutsMan N takes his Cut.png">
+    <title><![CDATA[CutsMan N takes his Cut]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Iron Warlords.jpg"
+	thumbURL="thumbs/Iron Warlords.jpg"
+	linkURL="images/Iron Warlords.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\MRX\Documents\Aptana Workspace\webportfolio\gallery\Iron Warlords.png">
+    <title><![CDATA[Iron Warlords]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/michaelrobangelopiontsatandroidgod best quality.jpg"
+	thumbURL="thumbs/michaelrobangelopiontsatandroidgod best quality.jpg"
+	linkURL="images/michaelrobangelopiontsatandroidgod best quality.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\MRX\Documents\Aptana Workspace\webportfolio\gallery\michaelrobangelopiontsatandroidgod best quality.png">
+    <title><![CDATA[michaelrobangelopiontsatandroidgod best quality]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Mr CK Beep Boop Boop Bop.jpg"
+	thumbURL="thumbs/Mr CK Beep Boop Boop Bop.jpg"
+	linkURL="images/Mr CK Beep Boop Boop Bop.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\MRX\Documents\Aptana Workspace\webportfolio\gallery\Mr CK Beep Boop Boop Bop.png">
+    <title><![CDATA[Mr CK Beep Boop Boop Bop]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Storm Spirit Zip Zapbig.jpg"
+	thumbURL="thumbs/Storm Spirit Zip Zapbig.jpg"
+	linkURL="images/Storm Spirit Zip Zapbig.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\MRX\Documents\Aptana Workspace\webportfolio\gallery\Storm Spirit Zip Zapbig.png">
+    <title><![CDATA[Storm Spirit Zip Zapbig]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Super Dark Sanic Adventure 2 Battle.jpg"
+	thumbURL="thumbs/Super Dark Sanic Adventure 2 Battle.jpg"
+	linkURL="images/Super Dark Sanic Adventure 2 Battle.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\MRX\Documents\Aptana Workspace\webportfolio\gallery\Super Dark Sanic Adventure 2 Battle.png">
+    <title><![CDATA[Super Dark Sanic Adventure 2 Battle]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Super_Mario_Bros._3_demonic.jpg"
+	thumbURL="thumbs/Super_Mario_Bros._3_demonic.jpg"
+	linkURL="images/Super_Mario_Bros._3_demonic.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\MRX\Documents\Aptana Workspace\webportfolio\gallery\Super_Mario_Bros._3_demonic.png">
+    <title><![CDATA[Super_Mario_Bros._3_demonic]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/The end of Evanbioshock.jpg"
+	thumbURL="thumbs/The end of Evanbioshock.jpg"
+	linkURL="images/The end of Evanbioshock.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\MRX\Documents\Aptana Workspace\webportfolio\gallery\The end of Evanbioshock.png">
+    <title><![CDATA[The end of Evanbioshock]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>
