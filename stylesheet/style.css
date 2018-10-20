@@ -1,6 +1,6 @@
 html {
 	color: white;
-	background-image: url("/images/megaback.jpg");
+	background-image: url("../images/megaback.jpg");
 	background-repeat: repeat;
 	background-color: black;
 	
@@ -32,7 +32,7 @@ h1 {
 
 }
 .banner {
-	background: url('images/banner1.png');
+	background: url('images/banner1');
 	text-align: center;
 	max-width: 100%;
 	max-height: 100%;
@@ -111,7 +111,7 @@ a.anav1:hover, a.anav1:active {
 	text-align: center;
 	box-sizing: border-box;
 	overflow:hidden;
-	background-image: url("images/leftback.jpg");
+	background-image: url("../images/leftback.jpg");
 	background-color: gray;
 	
 }
@@ -128,7 +128,7 @@ a.anav1:hover, a.anav1:active {
 	box-sizing: border-box;
 	padding-left:10px;
 	padding-right: 10px;
-	background-image: url("images/midback.jpg");
+	background-image: url("../images/midback.jpg");
 	background-repeat: repeat;
 	background-color:black;
 	overflow:hidden;
@@ -165,12 +165,12 @@ h2{
 	left:250px;
 	top:-1000px;
 	width: 710px;
-	max-height:8000px;	
+	max-height:9000px;	
 	text-align: center;
 	box-sizing: border-box;
 	padding-left:10px;
 	padding-right: 10px;
-	background-image: url("images/midback.jpg");
+	background-image: url("../images/midback.jpg");
 	background-repeat: repeat;
 	background-color:black;
 	overflow:hidden;
